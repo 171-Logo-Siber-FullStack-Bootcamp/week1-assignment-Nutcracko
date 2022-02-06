@@ -1,4 +1,5 @@
 //XMLHttpRequest
+import XMLHttpRequest from "xhr2";
 
 //creating a new instance of XMLHttpRequest Object
 var exRequest = new XMLHttpRequest();

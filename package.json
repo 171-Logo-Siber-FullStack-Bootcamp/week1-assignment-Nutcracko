@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "week1-assignment-nutcracko",
+  "version": "1.0.0",
+  "description": "Week 1 Assignment",
+  "main": "assignment.js",
+  "scripts": {
+    "start": "node assignment.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-Nutcracko.git"
+  },
+  "author": "Batuhan Unal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-Nutcracko/issues"
+  },
+  "homepage": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-Nutcracko#readme",
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  }
+}
